@@ -60,12 +60,16 @@ Lista de preguntas frecuentes. <br>
 <a name="autores"></a>
 Información de las personas que trabajaron en el proyecto.
 
-- **Laura Rodríguez** - *Construcción del código* - [GitHub](https://github.com/laura2ndrea)
+- **Laura Rodríguez**:
+   - *Aportes: construcción del código, documentación.*
+   - *Contacto: laura2ndrea12@gmail.com*
 
 ---
 
 ## Adicionales 
+
 ### Imágenes
+
 ### Tablas 
 
 ### Bloques de código 
