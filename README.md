@@ -75,8 +75,16 @@ Información de las personas que trabajaron en el proyecto.
 <img src="https://images.ctfassets.net/denf86kkcx7r/4IPlg4Qazd4sFRuCUHIJ1T/f6c71da7eec727babcd554d843a528b8/gatocomuneuropeo-97?fm=webp&w=612" width="50%">
 
 ### Tablas 
+| Nombre  | Tipo    | Color |
+| :---    |  :----: |  ---: |
+| Manzana | Fruta   | Rojo  |
+| Pera    | Fruta   | Verde |
 
 ### Bloques de código 
+```
+const value = 3;
+let result = value * 4;
+```
 
 ### Notas especiales 
 > [!NOTE]
@@ -93,5 +101,4 @@ Información de las personas que trabajaron en el proyecto.
 
 > [!CAUTION]
 > Esto es una advertencia
-> 
-### Listas (ordenadas / no ordenadas) 
+
