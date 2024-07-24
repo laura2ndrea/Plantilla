@@ -66,6 +66,9 @@ Información de las personas que trabajaron en el proyecto.
 
 ---
 
+Hecho con 🫀 por [LauraRodriguez](https://github.com/laura2ndrea)
+
+
 ## Adicionales 
 
 ### Imágenes
